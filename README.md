@@ -1,5 +1,3 @@
-
-
 ## Opa, eu sou o CLKdsn
 <div align="center">
   <a href="https://github.com/CLkdsn">
