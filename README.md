@@ -17,3 +17,5 @@
 
 
   [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q0I8RNP)
+
+<img src="https://api.statusbadges.me/badge/status/399629048667701248?simple=true" alt="status"> <img src="https://api.statusbadges.me/badge/playing/399629048667701248" alt="playing"> <img src="https://api.statusbadges.me/badge/vscode/399629048667701248" alt="vscode"> <a href="https://api.statusbadges.me/openspotify/399629048667701248" target="_blank" rel="noopener"><img src="https://api.statusbadges.me/badge/spotify/399629048667701248" alt="spotify"></a>
